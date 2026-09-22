@@ -24,31 +24,14 @@ title: Temario
     </p>
   </section>
 
-  <div class="axis-title">Eje 1 · Fundamentos de regresión</div>
+  <div class="axis-title">Introducción a la Estadística</div>
   <ul class="class-list">
     <li class="class-item">
-      <div class="cnum">Clase 1</div>
-      <h3>Introducción a la econometría y repaso de probabilidad</h3>
+      <div class="cnum">Unidad 1</div>
+      <h3>Introducción a la estadística, nociones, escalas de medida y proceso de investigación estadística </h3>
       <div class="mat-links">
-        <a href="{{ '/clases/clase-1/' | relative_url }}">Explicación</a>
-        <a href="{{ '/clases/clase-1/#practica-guiada' | relative_url }}">Práctica guiada</a>
-        <a href="{{ '/clases/clase-1/#practica-independiente' | relative_url }}">Práctica independiente</a>
-      </div>
-    </li>
-    <li class="class-item">
-      <div class="cnum">Clase 2</div>
-      <h3>Regresión lineal simple: MCO y supuestos clásicos</h3>
-      <div class="mat-links">
-        <a href="{{ '/clases/clase-2/' | relative_url }}">Explicación</a>
-        <a href="{{ '/clases/clase-2/#practica-guiada' | relative_url }}">Práctica guiada</a>
-        <a href="{{ '/clases/clase-2/#practica-independiente' | relative_url }}">Práctica independiente</a>
-      </div>
-    </li>
-    <li class="class-item">
-      <div class="cnum">Clase 3</div>
-      <h3>Regresión lineal múltiple e inferencia</h3>
-      <div class="mat-links">
-        <a href="#">Próximamente</a>
+        <a href="https://raw.githack.com/Lufesc/EstAplic2026/main/Contenido/01-intro/01-intro.html">Pesentación</a>
+        <a href="https://raw.githack.com/Lufesc/EstAplic2026/main/Contenido/01-intro/01-intro.pdf">(PDF)</a>
       </div>
     </li>
   </ul>
