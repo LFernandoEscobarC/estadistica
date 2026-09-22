@@ -1,7 +1,7 @@
-title: "Econometría"
-description: "Materiales del curso de Econometría — Luis Fernando Escobar Caba, UAGRM Business School"
-url: "https://lufesc.github.io"
-baseurl: "/econometria"
+title: "Estadística Aplicada"
+description: "Materiales del curso de Estadística Aplicada— Luis Fernando Escobar Caba, UAGRM Business School"
+url: "https://LFernandoEscobarC.github.io"
+baseurl: "/estadistica"
 
 defaults:
   - scope:
