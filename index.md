@@ -4,7 +4,7 @@ title: Temario
 
 <div class="hero" style="min-height:220px;">
   <div class="hero-inner">
-    <h1>ECONOMETRÍA</h1>
+    <h1>ESTADÍSTICA APLICADA</h1>
     <div class="hero-rule"></div>
     <div class="hero-role">Material de clase · UAGRM Business School</div>
   </div>
@@ -13,15 +13,13 @@ title: Temario
 <main>
   <section style="max-width:760px; margin:0 auto 30px;">
     <p style="font-size:.95rem; line-height:1.75; color:#2b2e34;">
-      Este sitio reúne el material de la materia de Econometría: teoría, guías
-      de práctica y ejercicios independientes, organizados por clase.
-      Los archivos de datos y presentaciones se agregan en la carpeta
-      <code>materiales/</code> del repositorio.
+      Este sitio reúne el material de la asignatura de Estadística Aplicada: presentaciones, guías
+      de práctica y ejercicios en clases.
     </p>
     <p style="margin-top:14px;">
       <a class="card" style="display:inline-block; padding:12px 18px;"
-         href="https://github.com/Lufesc/econometria/archive/refs/heads/main.zip">
-         ⬇ Descargar todo el material (.zip)
+         href="https://raw.githack.com/Lufesc/EstAplic2026/main/Material%20bibliogr%C3%A1fico.rar">
+         ⬇ Libros de Estadística que cubren el contenido analítico de esta asignatura (.zip) 
       </a>
     </p>
   </section>
