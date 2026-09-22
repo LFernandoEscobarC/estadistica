@@ -36,31 +36,20 @@ title: Temario
     </li>
   </ul>
 
-  <div class="axis-title">Eje 2 · Diagnóstico y series de tiempo</div>
+  <div class="axis-title">Naturaleza de la información: agrupación y descripción de datos</div>
   <ul class="class-list">
     <li class="class-item">
-      <div class="cnum">Clase 4</div>
-      <h3>Multicolinealidad, heterocedasticidad y autocorrelación</h3>
-      <div class="mat-links"><a href="#">Próximamente</a></div>
+      <div class="cnum">Unidad 2</div>
+      <h3>Descripción de datos: métodos gráficos</h3>
+        <a href="https://raw.githack.com/Lufesc/EstAplic2026/main/Contenido/02-descripcion/02-descripcion.html">Pesentación</a>
+        <a href="https://raw.githack.com/Lufesc/EstAplic2026/main/Contenido/02-descripcion/02-descripcion.pdf">(PDF)</a> 
     </li>
     <li class="class-item">
-      <div class="cnum">Clase 5</div>
-      <h3>Estacionariedad, raíces unitarias y modelos ARIMA</h3>
-      <div class="mat-links"><a href="#">Próximamente</a></div>
+      <div class="cnum">Unidad 2</div>
+      <h3>Descripción de datos: medidas</h3>
+        <a href="https://raw.githack.com/Lufesc/EstAplic2026/main/Contenido/02-descripcion/02-describiendo-datos-numerica.html">Pesentación</a>
+        <a href="https://raw.githack.com/Lufesc/EstAplic2026/main/Contenido/02-descripcion/02-describiendo-datos-numerica.pdf">(PDF)</a> 
     </li>
   </ul>
 
-  <div class="axis-title">Eje 3 · Volatilidad y riesgo</div>
-  <ul class="class-list">
-    <li class="class-item">
-      <div class="cnum">Clase 6</div>
-      <h3>Modelos ARCH y GARCH</h3>
-      <div class="mat-links"><a href="#">Próximamente</a></div>
-    </li>
-    <li class="class-item">
-      <div class="cnum">Clase 7</div>
-      <h3>Modelos GARCH asimétricos (EGARCH, GJR-GARCH) y aplicaciones</h3>
-      <div class="mat-links"><a href="#">Próximamente</a></div>
-    </li>
-  </ul>
 </main>
