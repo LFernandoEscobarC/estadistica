@@ -36,7 +36,7 @@ title: Temario
   <ul class="class-list">
     <li class="class-item">
       <div class="cnum">Unidad 1</div>
-      <h3>Introducción a la estadística, nociones, escalas de medida y proceso de investigación estadística </h3>
+      <h3>Introducción a la estadística, nociones, escalas de medida y proceso de investigación estadística</h3>
       <div class="mat-links">
         <a href="https://raw.githack.com/Lufesc/EstAplic2026/main/Contenido/01-intro/01-intro.html">Pesentación</a>
         <a href="https://raw.githack.com/Lufesc/EstAplic2026/main/Contenido/01-intro/01-intro.pdf">(PDF)</a>
@@ -57,9 +57,9 @@ title: Temario
       <h3>Descripción de datos: medidas</h3>
         <a href="https://raw.githack.com/Lufesc/EstAplic2026/main/Contenido/02-descripcion/02-describiendo-datos-numerica.html">Pesentación</a>
         <a href="https://raw.githack.com/Lufesc/EstAplic2026/main/Contenido/02-descripcion/02-describiendo-datos-numerica.pdf">(PDF)</a>
-      <a href="https://lufesc.github.io/Estructurastabularded/">Estructuras tabulares</a>
+      <a href="https://lufesc.github.io/Estructurastabularded/">Práctica guiada: Estructuras tabulares</a>
       <a href="https://raw.githack.com/Lufesc/EstAplic2026/main/Practicas/Data.csv">Datos RRHH</a> 
-      <a href="https://lufesc.github.io/EstadisticaDescriptiva/">Estadística descriptiva unidimensional</a>
+      <a href="https://lufesc.github.io/EstadisticaDescriptiva/">Práctica guiada: Estadística descriptiva</a>
     </li>
   </ul>
 
