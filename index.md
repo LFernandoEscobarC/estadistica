@@ -26,8 +26,16 @@ title: Temario
          Mendoza. R para principiantes (recurso abierto) 
       </a>
       <a class="card" style="display:inline-block; padding:12px 18px;"
+         href="https://bookdown.org/gboccardo/manual-ED-UCH/">
+         Boccardo & Ruiz. RStudio para Estadística Descriptiva en Ciencias Sociales (recurso abierto) 
+      </a>
+      <a class="card" style="display:inline-block; padding:12px 18px;"
          href="https://openintrostat.github.io/oilabs-tidy/">
          Diez, Barr & Çetinkaya-Rundel. OpenIntro Statistics (recurso abierto) 
+      </a>
+      <a class="card" style="display:inline-block; padding:12px 18px;"
+         href="https://www.econometrics-with-r.org/index.html">
+         Hanck, Arnold, Gerber & Schmelzer. Introduction to Econometrics with R (recurso abierto) 
       </a>
       <a class="card" style="display:inline-block; padding:12px 18px;"
          href="https://otexts.com/fpp3/">
@@ -36,6 +44,19 @@ title: Temario
     </p>
   </section>
 
+  <div class="card">
+      <h4>Recursos o materiales adicionales</h4>
+      <p>Material complementario para el curso.</p>
+      <a class="link" href="https://www.r-project.org/">Instalador de R</a>
+    <a class="link" href="https://www.rstudio.com/products/rstudio/download/preview/">Instalador de RStudio</a>
+    <a class="link" href="https://posit.cloud/">Posit cloud</a>
+    <a class="link" href="https://www.rdocumentation.org/">Documentación de R</a>
+    <a class="link" href="https://r-coder.com/inicio/">Programación en R</a>
+    <a class="link" href="https://opensource.posit.co/resources/cheatsheets/">Cheat sheet</a>
+    <a class="link" href="https://rstudio.github.io/cheatsheets/translations/spanish/base-r_es.pdf">Cheat sheet R base</a>
+    <a class="link" href="https://rstudio.github.io/cheatsheets/translations.html#spanish">Cheat sheet (hoja de trucos)</a>
+    </div>
+    
   <div class="axis-title">Introducción a la Estadística</div>
   <ul class="class-list">
     <li class="class-item">
