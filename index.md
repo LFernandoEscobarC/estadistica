@@ -47,8 +47,6 @@ title: Temario
   <div class="card">
       <h4>Recursos o materiales adicionales</h4>
       <p>Material complementario para el curso.</p>
-    <ul class="class-list">
-      <li class="class-item">
         <div class="mat-links">
           <a class="link" href="https://www.r-project.org/">Instalador de R</a>
           </div>
@@ -73,8 +71,6 @@ title: Temario
         <div class="mat-links">
           <a class="link" href="https://rstudio.github.io/cheatsheets/translations.html#spanish">Cheat sheet (hoja de trucos)</a>
         </div>
-      </li>
-    </ul>
   </div>
     
     
