@@ -47,6 +47,7 @@ title: Temario
   <div class="card">
       <h4>Recursos o materiales adicionales</h4>
       <p>Material complementario para el curso.</p>
+    <ul class="class-list">
       <a class="link" href="https://www.r-project.org/">Instalador de R</a>
     <a class="link" href="https://www.rstudio.com/products/rstudio/download/preview/">Instalador de RStudio</a>
     <a class="link" href="https://posit.cloud/">Posit cloud</a>
@@ -55,7 +56,9 @@ title: Temario
     <a class="link" href="https://opensource.posit.co/resources/cheatsheets/">Cheat sheet</a>
     <a class="link" href="https://rstudio.github.io/cheatsheets/translations/spanish/base-r_es.pdf">Cheat sheet R base</a>
     <a class="link" href="https://rstudio.github.io/cheatsheets/translations.html#spanish">Cheat sheet (hoja de trucos)</a>
+    </ul>
     </div>
+    
     
   <div class="axis-title">Introducción a la Estadística</div>
   <ul class="class-list">
@@ -85,9 +88,9 @@ title: Temario
       <div class="mat-links">
         <a href="https://raw.githack.com/Lufesc/EstAplic2026/main/Contenido/02-descripcion/02-describiendo-datos-numerica.html">Pesentación</a>
         <a href="https://raw.githack.com/Lufesc/EstAplic2026/main/Contenido/02-descripcion/02-describiendo-datos-numerica.pdf">(PDF)</a>
-      <a href="https://lufesc.github.io/Estructurastabularded/">Práctica guiada: Estructuras tabulares</a>
+      <a href="https://lufesc.github.io/Estructurastabularded/">Práctica guiada de estructuras tabulares</a>
       <a href="https://raw.githack.com/Lufesc/EstAplic2026/main/Practicas/Data.csv">Datos RRHH</a> 
-      <a href="https://lufesc.github.io/EstadisticaDescriptiva/">Práctica guiada: Estadística descriptiva</a>
+      <a href="https://lufesc.github.io/EstadisticaDescriptiva/">Práctica guiada de estadística descriptiva</a>
          </div>
     </li>
   </ul>
