@@ -21,6 +21,8 @@ title: Temario
          href="https://raw.githack.com/Lufesc/EstAplic2026/main/Material%20bibliogr%C3%A1fico.rar">
          ⬇ Libros de Estadística que cubren el contenido analítico de esta asignatura (.zip) 
       </a>
+      <a href="https://openintrostat.github.io/oilabs-tidy/">•	Diez, Barr & Çetinkaya-Rundel. OpenIntro Statistics (recurso abierto)</a>
+      <a href="https://otexts.com/fpp3/">•	Hyndman & Athanasopoulos. Forecasting: Principles and Practice (recurso abierto)</a>
     </p>
   </section>
 
