@@ -45,20 +45,37 @@ title: Temario
   </section>
 
   <div class="card">
-      <h4>Recursos o materiales adicionales</h4></div>
+      <h4>Recursos o materiales adicionales</h4>
       <p>Material complementario para el curso.</p>
     <ul class="class-list">
       <li class="class-item">
-    <a class="link" href="https://www.r-project.org/">Instalador de R</a>
-    <a class="link" href="https://www.rstudio.com/products/rstudio/download/preview/">Instalador de RStudio</a>
-    <a class="link" href="https://posit.cloud/">Posit cloud</a>
-    <a class="link" href="https://www.rdocumentation.org/">Documentación de R</a>
-    <a class="link" href="https://r-coder.com/inicio/">Programación en R</a>
-    <a class="link" href="https://opensource.posit.co/resources/cheatsheets/">Cheat sheet</a>
-    <a class="link" href="https://rstudio.github.io/cheatsheets/translations/spanish/base-r_es.pdf">Cheat sheet (R base)</a>
-    <a class="link" href="https://rstudio.github.io/cheatsheets/translations.html#spanish">Cheat sheet (hoja de trucos)</a>
-    </li>
+        <div class="mat-links">
+          <a class="link" href="https://www.r-project.org/">Instalador de R</a>
+          </div>
+        <div class="mat-links">
+          <a class="link" href="https://www.rstudio.com/products/rstudio/download/preview/">Instalador de RStudio</a>
+          </div>
+        <div class="mat-links">
+          <a class="link" href="https://posit.cloud/">Posit cloud</a>
+        </div>
+        <div class="mat-links">
+          <a class="link" href="https://www.rdocumentation.org/">Documentación de R</a>
+        </div>
+        <div class="mat-links">
+          <a class="link" href="https://r-coder.com/inicio/">Programación en R</a>
+        </div>
+        <div class="mat-links">
+          <a class="link" href="https://opensource.posit.co/resources/cheatsheets/">Cheat sheet</a>
+        </div>
+        <div class="mat-links">
+          <a class="link" href="https://rstudio.github.io/cheatsheets/translations/spanish/base-r_es.pdf">Cheat sheet (R base)</a>
+        </div>
+        <div class="mat-links">
+          <a class="link" href="https://rstudio.github.io/cheatsheets/translations.html#spanish">Cheat sheet (hoja de trucos)</a>
+        </div>
+      </li>
     </ul>
+  </div>
     
     
     
