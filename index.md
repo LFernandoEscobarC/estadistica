@@ -45,7 +45,7 @@ title: Temario
   </section>
 
   <div class="card">
-      <h4>Recursos o materiales adicionales</h4>
+      <h4>Recursos o materiales adicionales</h4></div>
       <p>Material complementario para el curso.</p>
     <ul class="class-list">
       <li class="class-item">
@@ -55,11 +55,11 @@ title: Temario
     <a class="link" href="https://www.rdocumentation.org/">Documentación de R</a>
     <a class="link" href="https://r-coder.com/inicio/">Programación en R</a>
     <a class="link" href="https://opensource.posit.co/resources/cheatsheets/">Cheat sheet</a>
-    <a class="link" href="https://rstudio.github.io/cheatsheets/translations/spanish/base-r_es.pdf">Cheat sheet R base</a>
+    <a class="link" href="https://rstudio.github.io/cheatsheets/translations/spanish/base-r_es.pdf">Cheat sheet (R base)</a>
     <a class="link" href="https://rstudio.github.io/cheatsheets/translations.html#spanish">Cheat sheet (hoja de trucos)</a>
     </li>
     </ul>
-    </div>
+    
     
     
   <div class="axis-title">Introducción a la Estadística</div>
