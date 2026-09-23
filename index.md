@@ -49,17 +49,21 @@ title: Temario
     <li class="class-item">
       <div class="cnum">Unidad 2</div>
       <h3>Descripción de datos: métodos gráficos</h3>
+      <div class="mat-links">
         <a href="https://raw.githack.com/Lufesc/EstAplic2026/main/Contenido/02-descripcion/02-descripcion.html">Pesentación</a>
         <a href="https://raw.githack.com/Lufesc/EstAplic2026/main/Contenido/02-descripcion/02-descripcion.pdf">(PDF)</a> 
+         </div>
     </li>
     <li class="class-item">
       <div class="cnum">Unidad 2</div>
       <h3>Descripción de datos: medidas</h3>
+      <div class="mat-links">
         <a href="https://raw.githack.com/Lufesc/EstAplic2026/main/Contenido/02-descripcion/02-describiendo-datos-numerica.html">Pesentación</a>
         <a href="https://raw.githack.com/Lufesc/EstAplic2026/main/Contenido/02-descripcion/02-describiendo-datos-numerica.pdf">(PDF)</a>
       <a href="https://lufesc.github.io/Estructurastabularded/">Práctica guiada: Estructuras tabulares</a>
       <a href="https://raw.githack.com/Lufesc/EstAplic2026/main/Practicas/Data.csv">Datos RRHH</a> 
       <a href="https://lufesc.github.io/EstadisticaDescriptiva/">Práctica guiada: Estadística descriptiva</a>
+         </div>
     </li>
   </ul>
 
