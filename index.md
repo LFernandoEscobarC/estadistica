@@ -22,6 +22,10 @@ title: Temario
          ⬇ Libros de Estadística que cubren el contenido analítico de esta asignatura (.zip)  
       </a>
       <a class="card" style="display:inline-block; padding:12px 18px;"
+         href="https://bookdown.org/jboscomendoza/r-principiantes4/">
+         Mendoza. R para principiantes (recurso abierto) 
+      </a>
+      <a class="card" style="display:inline-block; padding:12px 18px;"
          href="https://openintrostat.github.io/oilabs-tidy/">
          Diez, Barr & Çetinkaya-Rundel. OpenIntro Statistics (recurso abierto) 
       </a>
