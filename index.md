@@ -25,7 +25,6 @@ title: Temario
          href="https://openintrostat.github.io/oilabs-tidy/">
          Diez, Barr & Çetinkaya-Rundel. OpenIntro Statistics (recurso abierto) 
       </a>
-      </a>
       <a class="card" style="display:inline-block; padding:12px 18px;"
          href="https://otexts.com/fpp3/">
          Hyndman & Athanasopoulos. Forecasting: Principles and Practice (recurso abierto) 
