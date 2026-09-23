@@ -48,7 +48,8 @@ title: Temario
       <h4>Recursos o materiales adicionales</h4>
       <p>Material complementario para el curso.</p>
     <ul class="class-list">
-      <a class="link" href="https://www.r-project.org/">Instalador de R</a>
+      <li class="class-item">
+    <a class="link" href="https://www.r-project.org/">Instalador de R</a>
     <a class="link" href="https://www.rstudio.com/products/rstudio/download/preview/">Instalador de RStudio</a>
     <a class="link" href="https://posit.cloud/">Posit cloud</a>
     <a class="link" href="https://www.rdocumentation.org/">Documentación de R</a>
@@ -56,6 +57,7 @@ title: Temario
     <a class="link" href="https://opensource.posit.co/resources/cheatsheets/">Cheat sheet</a>
     <a class="link" href="https://rstudio.github.io/cheatsheets/translations/spanish/base-r_es.pdf">Cheat sheet R base</a>
     <a class="link" href="https://rstudio.github.io/cheatsheets/translations.html#spanish">Cheat sheet (hoja de trucos)</a>
+    </li>
     </ul>
     </div>
     
