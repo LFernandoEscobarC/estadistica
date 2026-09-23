@@ -56,7 +56,10 @@ title: Temario
       <div class="cnum">Unidad 2</div>
       <h3>Descripción de datos: medidas</h3>
         <a href="https://raw.githack.com/Lufesc/EstAplic2026/main/Contenido/02-descripcion/02-describiendo-datos-numerica.html">Pesentación</a>
-        <a href="https://raw.githack.com/Lufesc/EstAplic2026/main/Contenido/02-descripcion/02-describiendo-datos-numerica.pdf">(PDF)</a> 
+        <a href="https://raw.githack.com/Lufesc/EstAplic2026/main/Contenido/02-descripcion/02-describiendo-datos-numerica.pdf">(PDF)</a>
+      <a href="https://lufesc.github.io/Estructurastabularded/">Estructuras tabulares</a>
+      <a href="https://raw.githack.com/Lufesc/EstAplic2026/main/Practicas/Data.csv">Datos RRHH</a> 
+      <a href="https://lufesc.github.io/EstadisticaDescriptiva/">Estadística descriptiva unidimensional</a>
     </li>
   </ul>
 
