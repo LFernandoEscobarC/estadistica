@@ -17,30 +17,42 @@ title: Temario
       de práctica y ejercicios en clases.
     </p>
     <p style="margin-top:14px;">
+      <div>
       <a class="card" style="display:inline-block; padding:12px 18px;"
          href="https://raw.githack.com/Lufesc/EstAplic2026/main/Material%20bibliogr%C3%A1fico.rar">
-         ⬇ Libros de Estadística que cubren el contenido analítico de esta asignatura (.zip)  
+         Libros de Estadística que cubren el contenido analítico de esta asignatura (.zip)  
       </a>
+        </div>
+    <div>
       <a class="card" style="display:inline-block; padding:12px 18px;"
          href="https://bookdown.org/jboscomendoza/r-principiantes4/">
          Mendoza. R para principiantes (recurso abierto) 
       </a>
+      </div>
+    <div>
       <a class="card" style="display:inline-block; padding:12px 18px;"
          href="https://bookdown.org/gboccardo/manual-ED-UCH/">
          Boccardo & Ruiz. RStudio para Estadística Descriptiva en Ciencias Sociales (recurso abierto) 
       </a>
+      </div>
+    <div>
       <a class="card" style="display:inline-block; padding:12px 18px;"
          href="https://openintrostat.github.io/oilabs-tidy/">
          Diez, Barr & Çetinkaya-Rundel. OpenIntro Statistics (recurso abierto) 
       </a>
+      </div>
+    <div>
       <a class="card" style="display:inline-block; padding:12px 18px;"
          href="https://www.econometrics-with-r.org/index.html">
          Hanck, Arnold, Gerber & Schmelzer. Introduction to Econometrics with R (recurso abierto) 
       </a>
+      </div>
+    <div>
       <a class="card" style="display:inline-block; padding:12px 18px;"
          href="https://otexts.com/fpp3/">
          Hyndman & Athanasopoulos. Forecasting: Principles and Practice (recurso abierto) 
       </a>
+      </div>
     </p>
   </section>
 
