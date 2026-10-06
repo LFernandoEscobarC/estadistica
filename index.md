@@ -128,4 +128,16 @@ title: Temario
     </li>
   </ul>
 
+  <div class="axis-title">Probabilidad, variables aleatorias y momentos</div>
+  <ul class="class-list">
+    <li class="class-item">
+      <div class="cnum">Unidad 3</div>
+      <h3>La estadística se basa en la probabilidad, y aunque la probabilidad no es requisito para las técnicas aplicadas de este curso, puede ayudarte a obtener una comprensión más profunda de los métodos y sentar una mejor base para cursos futuros</h3>
+      <div class="mat-links">
+        <a href="https://raw.githack.com/Lufesc/EstAplic2026/main/Contenido/03-probabilidad/03-probabilidad.html">Pesentación</a>
+        <a href="https://raw.githack.com/Lufesc/EstAplic2026/main/Contenido/03-probabilidad/03-probabilidad.pdf">(PDF)</a> 
+      </div>
+    </li>
+  </ul>
+
 </main>
