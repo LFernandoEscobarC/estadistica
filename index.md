@@ -152,5 +152,15 @@ title: Temario
     </li>
   </ul>
 
+  <div class="axis-title">Introducción a la Regresión Lineal</div>
+  <ul class="class-list">
+    <li class="class-item">
+      <div class="cnum">Unidad 4</div>
+      <h3>Ajustando una línea, residuos, y correlación, regresión de mínimos cuadrados, tipos de valores atípicos e Inferencia para la regresión lineal</h3>
+      <div class="mat-links">
+        <a href="https://raw.githack.com/Lufesc/EstAplic2026/main/Contenido/05-regresion-lineal/05-regresion-lineal.html">Pesentación</a>
+        <a href="https://raw.githack.com/Lufesc/EstAplic2026/main/Contenido/05-regresion-lineal/05-regresion-lineal.pdf">(PDF)</a> 
+      </div> 
+  </ul>
 
 </main>
